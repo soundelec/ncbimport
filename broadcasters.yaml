@@ -1,0 +1,3738 @@
+- model: shortwave.broadcaster
+  pk: 1
+  fields:
+    broadcaster: KCBS Pyongyang
+    slug: kcbs-pyongyang
+
+- model: shortwave.broadcaster
+  pk: 2
+  fields:
+    broadcaster: WWRB
+    slug: wwrb
+
+- model: shortwave.broadcaster
+  pk: 3
+  fields:
+    broadcaster: TWR Africa
+    slug: twr-africa
+
+- model: shortwave.broadcaster
+  pk: 4
+  fields:
+    broadcaster: NBC Sandaun West Sepik
+    slug: nbc-sandaun-west-sepik
+
+- model: shortwave.broadcaster
+  pk: 5
+  fields:
+    broadcaster: WWCR NASHVILLE
+    slug: wwcr-nashville
+
+- model: shortwave.broadcaster
+  pk: 6
+  fields:
+    broadcaster: WWCR The Overcomer Ministry
+    slug: wwcr-the-overcomer-ministry
+
+- model: shortwave.broadcaster
+  pk: 7
+  fields:
+    broadcaster: PYONGYANG BS
+    slug: pyongyang-bs
+
+- model: shortwave.broadcaster
+  pk: 8
+  fields:
+    broadcaster: BBC
+    slug: bbc
+
+- model: shortwave.broadcaster
+  pk: 9
+  fields:
+    broadcaster: R.Madang
+    slug: r-madang
+
+- model: shortwave.broadcaster
+  pk: 10
+  fields:
+    broadcaster: R.Madagasikara
+    slug: r-madagasikara
+
+- model: shortwave.broadcaster
+  pk: 11
+  fields:
+    broadcaster: NBC Central R.Gadona
+    slug: nbc-central-r-gadona
+
+- model: shortwave.broadcaster
+  pk: 12
+  fields:
+    broadcaster: Voice of Guyana
+    slug: voice-of-guyana
+
+- model: shortwave.broadcaster
+  pk: 13
+  fields:
+    broadcaster: Voice of Guyana(BBC)
+    slug: voice-of-guyana-bbc
+
+- model: shortwave.broadcaster
+  pk: 14
+  fields:
+    broadcaster: R.Mosoj Chaski
+    slug: r-mosoj-chaski
+
+- model: shortwave.broadcaster
+  pk: 15
+  fields:
+    broadcaster: R.SONDER GRENSE
+    slug: r-sonder-grense
+
+- model: shortwave.broadcaster
+  pk: 16
+  fields:
+    broadcaster: NBC Bougainville
+    slug: nbc-bougainville
+
+- model: shortwave.broadcaster
+  pk: 17
+  fields:
+    broadcaster: RRI Palangka Raya
+    slug: rri-palangka-raya
+
+- model: shortwave.broadcaster
+  pk: 18
+  fields:
+    broadcaster: VOICE OF INDONESIA
+    slug: voice-of-indonesia
+
+- model: shortwave.broadcaster
+  pk: 19
+  fields:
+    broadcaster: CHU Canada
+    slug: chu-canada
+
+- model: shortwave.broadcaster
+  pk: 20
+  fields:
+    broadcaster: CHANNEL AFRICA
+    slug: channel-africa
+
+- model: shortwave.broadcaster
+  pk: 21
+  fields:
+    broadcaster: RRI Ternate
+    slug: rri-ternate
+
+- model: shortwave.broadcaster
+  pk: 22
+  fields:
+    broadcaster: R.Cultura
+    slug: r-cultura
+
+- model: shortwave.broadcaster
+  pk: 23
+  fields:
+    broadcaster: R.Milne Bay
+    slug: r-milne-bay
+
+- model: shortwave.broadcaster
+  pk: 24
+  fields:
+    broadcaster: Radio ICDI
+    slug: radio-icdi
+
+- model: shortwave.broadcaster
+  pk: 25
+  fields:
+    broadcaster: VOICE OF THE PEOPLE
+    slug: voice-of-the-people
+
+- model: shortwave.broadcaster
+  pk: 26
+  fields:
+    broadcaster: JMH
+    slug: jmh
+
+- model: shortwave.broadcaster
+  pk: 27
+  fields:
+    broadcaster: PBS Hulun Buir
+    slug: pbs-hulun-buir
+
+- model: shortwave.broadcaster
+  pk: 28
+  fields:
+    broadcaster: NBC New Ireland
+    slug: nbc-new-ireland
+
+- model: shortwave.broadcaster
+  pk: 29
+  fields:
+    broadcaster: North Korean Jamming
+    slug: north-korean-jamming
+
+- model: shortwave.broadcaster
+  pk: 30
+  fields:
+    broadcaster: RADIO NIKKEI 1
+    slug: radio-nikkei-1
+
+- model: shortwave.broadcaster
+  pk: 31
+  fields:
+    broadcaster: R.Vanuatu
+    slug: r-vanuatu
+
+- model: shortwave.broadcaster
+  pk: 32
+  fields:
+    broadcaster: RADIO NIKKEI 2
+    slug: radio-nikkei-2
+
+- model: shortwave.broadcaster
+  pk: 33
+  fields:
+    broadcaster: Echo of Unification
+    slug: echo-of-unification
+
+- model: shortwave.broadcaster
+  pk: 34
+  fields:
+    broadcaster: PBS Xinjiang
+    slug: pbs-xinjiang
+
+- model: shortwave.broadcaster
+  pk: 35
+  fields:
+    broadcaster: BBC(DRM)
+    slug: bbc-drm
+
+- model: shortwave.broadcaster
+  pk: 36
+  fields:
+    broadcaster: KBS WORLD RADIO
+    slug: kbs-world-radio
+
+- model: shortwave.broadcaster
+  pk: 37
+  fields:
+    broadcaster: R.FRANCE INT.(DRM)
+    slug: r-france-int-drm
+
+- model: shortwave.broadcaster
+  pk: 38
+  fields:
+    broadcaster: AM Shortwave Radio
+    slug: am-shortwave-radio
+
+- model: shortwave.broadcaster
+  pk: 39
+  fields:
+    broadcaster: CNR 2
+    slug: cnr-2
+
+- model: shortwave.broadcaster
+  pk: 40
+  fields:
+    broadcaster: ECHO OF HOPE-VOH
+    slug: echo-of-hope-voh
+
+- model: shortwave.broadcaster
+  pk: 41
+  fields:
+    broadcaster: R.Slovakia International
+    slug: r-slovakia-international
+
+- model: shortwave.broadcaster
+  pk: 42
+  fields:
+    broadcaster: Radio Canada Int.
+    slug: radio-canada-int
+
+- model: shortwave.broadcaster
+  pk: 43
+  fields:
+    broadcaster: Radio MiAmigo
+    slug: radio-miamigo
+
+- model: shortwave.broadcaster
+  pk: 44
+  fields:
+    broadcaster: Radio Tirana
+    slug: radio-tirana
+
+- model: shortwave.broadcaster
+  pk: 45
+  fields:
+    broadcaster: RAE Argentina to the World
+    slug: rae-argentina-to-the-world
+
+- model: shortwave.broadcaster
+  pk: 46
+  fields:
+    broadcaster: Schweizer Radio SRF
+    slug: schweizer-radio-srf
+
+- model: shortwave.broadcaster
+  pk: 47
+  fields:
+    broadcaster: Shortwaveservice
+    slug: shortwaveservice
+
+- model: shortwave.broadcaster
+  pk: 48
+  fields:
+    broadcaster: PBS Gannan
+    slug: pbs-gannan
+
+- model: shortwave.broadcaster
+  pk: 49
+  fields:
+    broadcaster: PBS Gannan (CNR11)
+    slug: pbs-gannan-cnr11
+
+- model: shortwave.broadcaster
+  pk: 50
+  fields:
+    broadcaster: PBS Xinjiang (CNR13)
+    slug: pbs-xinjiang-cnr13
+
+- model: shortwave.broadcaster
+  pk: 51
+  fields:
+    broadcaster: HCJB Deutsch
+    slug: hcjb-deutsch
+
+- model: shortwave.broadcaster
+  pk: 52
+  fields:
+    broadcaster: HCJB Deutsch"Life FM"
+    slug: hcjb-deutsch-life-fm
+
+- model: shortwave.broadcaster
+  pk: 53
+  fields:
+    broadcaster: Missionswerk Werner Heukelbach
+    slug: missionswerk-werner-heukelbach
+
+- model: shortwave.broadcaster
+  pk: 54
+  fields:
+    broadcaster: KYRGYZ RADIO 1Birinchi Radio
+    slug: kyrgyz-radio-1birinchi-radio
+
+- model: shortwave.broadcaster
+  pk: 55
+  fields:
+    broadcaster: Laser Hot Hits
+    slug: laser-hot-hits
+
+- model: shortwave.broadcaster
+  pk: 56
+  fields:
+    broadcaster: Radio Verdad
+    slug: radio-verdad
+
+- model: shortwave.broadcaster
+  pk: 57
+  fields:
+    broadcaster: Slot Machine
+    slug: slot-machine
+
+- model: shortwave.broadcaster
+  pk: 58
+  fields:
+    broadcaster: Numbers Station 1
+    slug: numbers-station-1
+
+- model: shortwave.broadcaster
+  pk: 59
+  fields:
+    broadcaster: R.Santa Ana
+    slug: r-santa-ana
+
+- model: shortwave.broadcaster
+  pk: 60
+  fields:
+    broadcaster: PBS Xinjiang (CNR8)
+    slug: pbs-xinjiang-cnr8
+
+- model: shortwave.broadcaster
+  pk: 61
+  fields:
+    broadcaster: R.San Miguel
+    slug: r-san-miguel
+
+- model: shortwave.broadcaster
+  pk: 62
+  fields:
+    broadcaster: R.Yura
+    slug: r-yura
+
+- model: shortwave.broadcaster
+  pk: 63
+  fields:
+    broadcaster: CNR 1
+    slug: cnr-1
+
+- model: shortwave.broadcaster
+  pk: 64
+  fields:
+    broadcaster: R.BANGLADESH BETAR
+    slug: r-bangladesh-betar
+
+- model: shortwave.broadcaster
+  pk: 65
+  fields:
+    broadcaster: R.Dunamis Shortwave
+    slug: r-dunamis-shortwave
+
+- model: shortwave.broadcaster
+  pk: 66
+  fields:
+    broadcaster: AIR Port Blair(Chennai)
+    slug: air-port-blair-chennai
+
+- model: shortwave.broadcaster
+  pk: 67
+  fields:
+    broadcaster: Radio Huanta 2000
+    slug: radio-huanta-2000
+
+- model: shortwave.broadcaster
+  pk: 68
+  fields:
+    broadcaster: Radio Progreso
+    slug: radio-progreso
+
+- model: shortwave.broadcaster
+  pk: 69
+  fields:
+    broadcaster: Tajik Radio 1
+    slug: tajik-radio-1
+
+- model: shortwave.broadcaster
+  pk: 70
+  fields:
+    broadcaster: R.Sora de Congonhas
+    slug: r-sora-de-congonhas
+
+- model: shortwave.broadcaster
+  pk: 71
+  fields:
+    broadcaster: R.Tarma
+    slug: r-tarma
+
+- model: shortwave.broadcaster
+  pk: 72
+  fields:
+    broadcaster: AIR Hyderabad(Chennai)
+    slug: air-hyderabad-chennai
+
+- model: shortwave.broadcaster
+  pk: 73
+  fields:
+    broadcaster: R.Difusora do Amazonas
+    slug: r-difusora-do-amazonas
+
+- model: shortwave.broadcaster
+  pk: 74
+  fields:
+    broadcaster: AIR Mumbai
+    slug: air-mumbai
+
+- model: shortwave.broadcaster
+  pk: 75
+  fields:
+    broadcaster: Radio Logos
+    slug: radio-logos
+
+- model: shortwave.broadcaster
+  pk: 76
+  fields:
+    broadcaster: VOICE OF ARMENIA
+    slug: voice-of-armenia
+
+- model: shortwave.broadcaster
+  pk: 77
+  fields:
+    broadcaster: PBS Xizang
+    slug: pbs-xizang
+
+- model: shortwave.broadcaster
+  pk: 78
+  fields:
+    broadcaster: PBS Xizang (CNR1)
+    slug: pbs-xizang-cnr1
+
+- model: shortwave.broadcaster
+  pk: 79
+  fields:
+    broadcaster: Voz de la Selva
+    slug: voz-de-la-selva
+
+- model: shortwave.broadcaster
+  pk: 80
+  fields:
+    broadcaster: R.Sicuani
+    slug: r-sicuani
+
+- model: shortwave.broadcaster
+  pk: 81
+  fields:
+    broadcaster: Mongolian Radio 2
+    slug: mongolian-radio-2
+
+- model: shortwave.broadcaster
+  pk: 82
+  fields:
+    broadcaster: AIR Gangtok
+    slug: air-gangtok
+
+- model: shortwave.broadcaster
+  pk: 83
+  fields:
+    broadcaster: Ozy Radio
+    slug: ozy-radio
+
+- model: shortwave.broadcaster
+  pk: 84
+  fields:
+    broadcaster: R.Cult.Ondas Manaus
+    slug: r-cult-ondas-manaus
+
+- model: shortwave.broadcaster
+  pk: 85
+  fields:
+    broadcaster: PBS Xinjiang (CNR17)
+    slug: pbs-xinjiang-cnr17
+
+- model: shortwave.broadcaster
+  pk: 86
+  fields:
+    broadcaster: R.Difusora
+    slug: r-difusora
+
+- model: shortwave.broadcaster
+  pk: 87
+  fields:
+    broadcaster: AIR VOICE OF KASHMIR
+    slug: air-voice-of-kashmir
+
+- model: shortwave.broadcaster
+  pk: 88
+  fields:
+    broadcaster: ALL INDIA RADIO
+    slug: all-india-radio
+
+- model: shortwave.broadcaster
+  pk: 89
+  fields:
+    broadcaster: R.Difusora Roraima
+    slug: r-difusora-roraima
+
+- model: shortwave.broadcaster
+  pk: 90
+  fields:
+    broadcaster: R.Clube do Para
+    slug: r-clube-do-para
+
+- model: shortwave.broadcaster
+  pk: 91
+  fields:
+    broadcaster: R.Difusora Acreana
+    slug: r-difusora-acreana
+
+- model: shortwave.broadcaster
+  pk: 92
+  fields:
+    broadcaster: S-AFRICAN RADIO LEAGUE
+    slug: s-african-radio-league
+
+- model: shortwave.broadcaster
+  pk: 93
+  fields:
+    broadcaster: Mongolian Radio 1
+    slug: mongolian-radio-1
+
+- model: shortwave.broadcaster
+  pk: 94
+  fields:
+    broadcaster: R.Novo Tempo
+    slug: r-novo-tempo
+
+- model: shortwave.broadcaster
+  pk: 95
+  fields:
+    broadcaster: VOICE OF STRAIT
+    slug: voice-of-strait
+
+- model: shortwave.broadcaster
+  pk: 96
+  fields:
+    broadcaster: PBS Xizang (CNR11)
+    slug: pbs-xizang-cnr11
+
+- model: shortwave.broadcaster
+  pk: 97
+  fields:
+    broadcaster: R.Relogio Federal
+    slug: r-relogio-federal
+
+- model: shortwave.broadcaster
+  pk: 98
+  fields:
+    broadcaster: AIR Jaipur
+    slug: air-jaipur
+
+- model: shortwave.broadcaster
+  pk: 99
+  fields:
+    broadcaster: AIR Chennai
+    slug: air-chennai
+
+- model: shortwave.broadcaster
+  pk: 100
+  fields:
+    broadcaster: R.Educacao Rural
+    slug: r-educacao-rural
+
+- model: shortwave.broadcaster
+  pk: 101
+  fields:
+    broadcaster: VOICE OF AMERICA
+    slug: voice-of-america
+
+- model: shortwave.broadcaster
+  pk: 102
+  fields:
+    broadcaster: R.Amazonas
+    slug: r-amazonas
+
+- model: shortwave.broadcaster
+  pk: 103
+  fields:
+    broadcaster: R.San Antonio
+    slug: r-san-antonio
+
+- model: shortwave.broadcaster
+  pk: 104
+  fields:
+    broadcaster: AIR Srinagar
+    slug: air-srinagar
+
+- model: shortwave.broadcaster
+  pk: 105
+  fields:
+    broadcaster: R.Madre de Dios
+    slug: r-madre-de-dios
+
+- model: shortwave.broadcaster
+  pk: 106
+  fields:
+    broadcaster: R.Nacional Angola 1
+    slug: r-nacional-angola-1
+
+- model: shortwave.broadcaster
+  pk: 107
+  fields:
+    broadcaster: R.Cultural Amauta
+    slug: r-cultural-amauta
+
+- model: shortwave.broadcaster
+  pk: 108
+  fields:
+    broadcaster: R.Alvorada
+    slug: r-alvorada
+
+- model: shortwave.broadcaster
+  pk: 109
+  fields:
+    broadcaster: Voice of Hope Africa
+    slug: voice-of-hope-africa
+
+- model: shortwave.broadcaster
+  pk: 110
+  fields:
+    broadcaster: AIR Shillong
+    slug: air-shillong
+
+- model: shortwave.broadcaster
+  pk: 111
+  fields:
+    broadcaster: UBC Radio Uganda
+    slug: ubc-radio-uganda
+
+- model: shortwave.broadcaster
+  pk: 112
+  fields:
+    broadcaster: R.Brasil Central
+    slug: r-brasil-central
+
+- model: shortwave.broadcaster
+  pk: 113
+  fields:
+    broadcaster: PBS Hunan
+    slug: pbs-hunan
+
+- model: shortwave.broadcaster
+  pk: 114
+  fields:
+    broadcaster: Radio Apintie
+    slug: radio-apintie
+
+- model: shortwave.broadcaster
+  pk: 115
+  fields:
+    broadcaster: RN Guinea Ecuatorial(R.Bata)
+    slug: rn-guinea-ecuatorial-r-bata
+
+- model: shortwave.broadcaster
+  pk: 116
+  fields:
+    broadcaster: HFD Radio Station
+    slug: hfd-radio-station
+
+- model: shortwave.broadcaster
+  pk: 117
+  fields:
+    broadcaster: ADVENTIST WORLD R.
+    slug: adventist-world-r
+
+- model: shortwave.broadcaster
+  pk: 118
+  fields:
+    broadcaster: AIR Thiruvananthapuram
+    slug: air-thiruvananthapuram
+
+- model: shortwave.broadcaster
+  pk: 119
+  fields:
+    broadcaster: WRMI R.Slovakia Int.
+    slug: wrmi-r-slovakia-int
+
+- model: shortwave.broadcaster
+  pk: 120
+  fields:
+    broadcaster: WRMI Harvest Time
+    slug: wrmi-harvest-time
+
+- model: shortwave.broadcaster
+  pk: 121
+  fields:
+    broadcaster: WRMI IBC Radio
+    slug: wrmi-ibc-radio
+
+- model: shortwave.broadcaster
+  pk: 122
+  fields:
+    broadcaster: WRMI Sounding the Alarm
+    slug: wrmi-sounding-the-alarm
+
+- model: shortwave.broadcaster
+  pk: 123
+  fields:
+    broadcaster: WRMI Worship in Your Home
+    slug: wrmi-worship-in-your-home
+
+- model: shortwave.broadcaster
+  pk: 124
+  fields:
+    broadcaster: WRMI La Rosa de Tokio
+    slug: wrmi-la-rosa-de-tokio
+
+- model: shortwave.broadcaster
+  pk: 125
+  fields:
+    broadcaster: WRMI PCJ Media Network Plus
+    slug: wrmi-pcj-media-network-plus
+
+- model: shortwave.broadcaster
+  pk: 126
+  fields:
+    broadcaster: R.Cristal Intern.
+    slug: r-cristal-intern
+
+- model: shortwave.broadcaster
+  pk: 127
+  fields:
+    broadcaster: Radio Prage
+    slug: radio-prage
+
+- model: shortwave.broadcaster
+  pk: 128
+  fields:
+    broadcaster: R.Misionnes Int.
+    slug: r-misionnes-int
+
+- model: shortwave.broadcaster
+  pk: 129
+  fields:
+    broadcaster: WRMI Antena DX
+    slug: wrmi-antena-dx
+
+- model: shortwave.broadcaster
+  pk: 130
+  fields:
+    broadcaster: WRMI Frecuencia al Dia
+    slug: wrmi-frecuencia-al-dia
+
+- model: shortwave.broadcaster
+  pk: 131
+  fields:
+    broadcaster: WRMI Wave Scan
+    slug: wrmi-wave-scan
+
+- model: shortwave.broadcaster
+  pk: 132
+  fields:
+    broadcaster: WRMI Yeshua Messaih Ministry
+    slug: wrmi-yeshua-messaih-ministry
+
+- model: shortwave.broadcaster
+  pk: 133
+  fields:
+    broadcaster: WRMI RAE Argentina al Mundo
+    slug: wrmi-rae-argentina-al-mundo
+
+- model: shortwave.broadcaster
+  pk: 134
+  fields:
+    broadcaster: WRMI Family Radio
+    slug: wrmi-family-radio
+
+- model: shortwave.broadcaster
+  pk: 135
+  fields:
+    broadcaster: Solomon Islands BC
+    slug: solomon-islands-bc
+
+- model: shortwave.broadcaster
+  pk: 136
+  fields:
+    broadcaster: R.Quillabamba
+    slug: r-quillabamba
+
+- model: shortwave.broadcaster
+  pk: 137
+  fields:
+    broadcaster: R.REBELDE
+    slug: r-rebelde
+
+- model: shortwave.broadcaster
+  pk: 138
+  fields:
+    broadcaster: AIR Kolkata
+    slug: air-kolkata
+
+- model: shortwave.broadcaster
+  pk: 139
+  fields:
+    broadcaster: R.HABANA CUBA
+    slug: r-habana-cuba
+
+- model: shortwave.broadcaster
+  pk: 140
+  fields:
+    broadcaster: VO Beibu Bay Radio
+    slug: vo-beibu-bay-radio
+
+- model: shortwave.broadcaster
+  pk: 141
+  fields:
+    broadcaster: VO Beibu Bay Radio(CRI)
+    slug: vo-beibu-bay-radio-cri
+
+- model: shortwave.broadcaster
+  pk: 142
+  fields:
+    broadcaster: Radio 4KZ
+    slug: radio-4kz
+
+- model: shortwave.broadcaster
+  pk: 143
+  fields:
+    broadcaster: WTWW
+    slug: wtww
+
+- model: shortwave.broadcaster
+  pk: 144
+  fields:
+    broadcaster: WTWW Ham Nation
+    slug: wtww-ham-nation
+
+- model: shortwave.broadcaster
+  pk: 145
+  fields:
+    broadcaster: WTWW QS Live
+    slug: wtww-qs-live
+
+- model: shortwave.broadcaster
+  pk: 146
+  fields:
+    broadcaster: Afghan Christian R.(R.Sadaye Zi
+    slug: afghan-christian-r-r-sadaye-zi
+
+- model: shortwave.broadcaster
+  pk: 147
+  fields:
+    broadcaster: WBCQ Allan Weiner Worldwide
+    slug: wbcq-allan-weiner-worldwide
+
+- model: shortwave.broadcaster
+  pk: 148
+  fields:
+    broadcaster: WBCQ Antena DX
+    slug: wbcq-antena-dx
+
+- model: shortwave.broadcaster
+  pk: 149
+  fields:
+    broadcaster: WBCQ Area 51
+    slug: wbcq-area-51
+
+- model: shortwave.broadcaster
+  pk: 150
+  fields:
+    broadcaster: WBCQ Grits Radio
+    slug: wbcq-grits-radio
+
+- model: shortwave.broadcaster
+  pk: 151
+  fields:
+    broadcaster: WBCQ Hobart Radio International
+    slug: wbcq-hobart-radio-international
+
+- model: shortwave.broadcaster
+  pk: 152
+  fields:
+    broadcaster: WBCQ Radio New York Internation
+    slug: wbcq-radio-new-york-internation
+
+- model: shortwave.broadcaster
+  pk: 153
+  fields:
+    broadcaster: WBCQ Radio Timtron Worldwide
+    slug: wbcq-radio-timtron-worldwide
+
+- model: shortwave.broadcaster
+  pk: 154
+  fields:
+    broadcaster: WBCQ The Overcomer Ministry
+    slug: wbcq-the-overcomer-ministry
+
+- model: shortwave.broadcaster
+  pk: 155
+  fields:
+    broadcaster: SSB meteorogical broadcasting
+    slug: ssb-meteorogical-broadcasting
+
+- model: shortwave.broadcaster
+  pk: 156
+  fields:
+    broadcaster: R.Reina de la Selva
+    slug: r-reina-de-la-selva
+
+- model: shortwave.broadcaster
+  pk: 157
+  fields:
+    broadcaster: R.San Jose
+    slug: r-san-jose
+
+- model: shortwave.broadcaster
+  pk: 158
+  fields:
+    broadcaster: World Music Radio
+    slug: world-music-radio
+
+- model: shortwave.broadcaster
+  pk: 159
+  fields:
+    broadcaster: Radio MiAmigo International
+    slug: radio-miamigo-international
+
+- model: shortwave.broadcaster
+  pk: 160
+  fields:
+    broadcaster: Radio.Menschen.Geschichten
+    slug: radio-menschen-geschichten
+
+- model: shortwave.broadcaster
+  pk: 161
+  fields:
+    broadcaster: WRMI VORW Radio International
+    slug: wrmi-vorw-radio-international
+
+- model: shortwave.broadcaster
+  pk: 162
+  fields:
+    broadcaster: WRMI The Overcomer Ministry
+    slug: wrmi-the-overcomer-ministry
+
+- model: shortwave.broadcaster
+  pk: 163
+  fields:
+    broadcaster: WRMI Broad Spectrum Radio
+    slug: wrmi-broad-spectrum-radio
+
+- model: shortwave.broadcaster
+  pk: 164
+  fields:
+    broadcaster: WRMI Shortwave Radiogram
+    slug: wrmi-shortwave-radiogram
+
+- model: shortwave.broadcaster
+  pk: 165
+  fields:
+    broadcaster: WRMI Business Growth Radio
+    slug: wrmi-business-growth-radio
+
+- model: shortwave.broadcaster
+  pk: 166
+  fields:
+    broadcaster: WRMI Working in Power
+    slug: wrmi-working-in-power
+
+- model: shortwave.broadcaster
+  pk: 167
+  fields:
+    broadcaster: WRMI Radio Tirana
+    slug: wrmi-radio-tirana
+
+- model: shortwave.broadcaster
+  pk: 168
+  fields:
+    broadcaster: WRMI R.Prague
+    slug: wrmi-r-prague
+
+- model: shortwave.broadcaster
+  pk: 169
+  fields:
+    broadcaster: HLL Seoul Meteorological Radio
+    slug: hll-seoul-meteorological-radio
+
+- model: shortwave.broadcaster
+  pk: 170
+  fields:
+    broadcaster: R.FARDA
+    slug: r-farda
+
+- model: shortwave.broadcaster
+  pk: 171
+  fields:
+    broadcaster: NHK WORLD RADIO JAPAN
+    slug: nhk-world-radio-japan
+
+- model: shortwave.broadcaster
+  pk: 172
+  fields:
+    broadcaster: R.THAILAND
+    slug: r-thailand
+
+- model: shortwave.broadcaster
+  pk: 173
+  fields:
+    broadcaster: R.FREE ASIA
+    slug: r-free-asia
+
+- model: shortwave.broadcaster
+  pk: 174
+  fields:
+    broadcaster: LKB/LLE R.Northern Star
+    slug: lkb-lle-r-northern-star
+
+- model: shortwave.broadcaster
+  pk: 175
+  fields:
+    broadcaster: IBRA MEDIA/FEBA Radio
+    slug: ibra-media-feba-radio
+
+- model: shortwave.broadcaster
+  pk: 176
+  fields:
+    broadcaster: BIBLE VOICE BCN Radio Dardasha7
+    slug: bible-voice-bcn-radio-dardasha7
+
+- model: shortwave.broadcaster
+  pk: 177
+  fields:
+    broadcaster: R.TAIWAN INT.
+    slug: r-taiwan-int
+
+- model: shortwave.broadcaster
+  pk: 178
+  fields:
+    broadcaster: IBC Radio
+    slug: ibc-radio
+
+- model: shortwave.broadcaster
+  pk: 179
+  fields:
+    broadcaster: Radio BCL News
+    slug: radio-bcl-news
+
+- model: shortwave.broadcaster
+  pk: 180
+  fields:
+    broadcaster: The Overcomer Ministry
+    slug: the-overcomer-ministry
+
+- model: shortwave.broadcaster
+  pk: 181
+  fields:
+    broadcaster: CHINA RADIO INTERNATIONAL
+    slug: china-radio-international
+
+- model: shortwave.broadcaster
+  pk: 182
+  fields:
+    broadcaster: Deutscher Wetterdiens
+    slug: deutscher-wetterdiens
+
+- model: shortwave.broadcaster
+  pk: 183
+  fields:
+    broadcaster: Living Water Ministry "Life of
+    slug: living-water-ministry-life-of
+
+- model: shortwave.broadcaster
+  pk: 184
+  fields:
+    broadcaster: R.ROMANIA INT.
+    slug: r-romania-int
+
+- model: shortwave.broadcaster
+  pk: 185
+  fields:
+    broadcaster: Alcaravan Radio
+    slug: alcaravan-radio
+
+- model: shortwave.broadcaster
+  pk: 186
+  fields:
+    broadcaster: Myanmar Radio
+    slug: myanmar-radio
+
+- model: shortwave.broadcaster
+  pk: 187
+  fields:
+    broadcaster: Zambia NBC Radio 1
+    slug: zambia-nbc-radio-1
+
+- model: shortwave.broadcaster
+  pk: 188
+  fields:
+    broadcaster: VO ISLAMIC REP.IRAN
+    slug: vo-islamic-rep-iran
+
+- model: shortwave.broadcaster
+  pk: 189
+  fields:
+    broadcaster: Voice of Freedom
+    slug: voice-of-freedom
+
+- model: shortwave.broadcaster
+  pk: 190
+  fields:
+    broadcaster: WHRI Healing Now
+    slug: whri-healing-now
+
+- model: shortwave.broadcaster
+  pk: 191
+  fields:
+    broadcaster: WHRI Music
+    slug: whri-music
+
+- model: shortwave.broadcaster
+  pk: 192
+  fields:
+    broadcaster: WHRI Midnight Cry Ministries
+    slug: whri-midnight-cry-ministries
+
+- model: shortwave.broadcaster
+  pk: 193
+  fields:
+    broadcaster: WHRI Harvest Show
+    slug: whri-harvest-show
+
+- model: shortwave.broadcaster
+  pk: 194
+  fields:
+    broadcaster: WHRI News/Music
+    slug: whri-news-music
+
+- model: shortwave.broadcaster
+  pk: 195
+  fields:
+    broadcaster: WHRI The Harvest Show
+    slug: whri-the-harvest-show
+
+- model: shortwave.broadcaster
+  pk: 196
+  fields:
+    broadcaster: WHRI Leser Sumrall Teachings
+    slug: whri-leser-sumrall-teachings
+
+- model: shortwave.broadcaster
+  pk: 197
+  fields:
+    broadcaster: WHRI Heart To Heart
+    slug: whri-heart-to-heart
+
+- model: shortwave.broadcaster
+  pk: 198
+  fields:
+    broadcaster: WHRI Your Story Hour
+    slug: whri-your-story-hour
+
+- model: shortwave.broadcaster
+  pk: 199
+  fields:
+    broadcaster: WHRI 20 The Countdown Magazine
+    slug: whri-20-the-countdown-magazine
+
+- model: shortwave.broadcaster
+  pk: 200
+  fields:
+    broadcaster: CNR 5
+    slug: cnr-5
+
+- model: shortwave.broadcaster
+  pk: 201
+  fields:
+    broadcaster: R.FRANCE INT.
+    slug: r-france-int
+
+- model: shortwave.broadcaster
+  pk: 202
+  fields:
+    broadcaster: Voice of Vietnam 2
+    slug: voice-of-vietnam-2
+
+- model: shortwave.broadcaster
+  pk: 203
+  fields:
+    broadcaster: WWCR University Network
+    slug: wwcr-university-network
+
+- model: shortwave.broadcaster
+  pk: 204
+  fields:
+    broadcaster: R.Deegaanka Soomaalida
+    slug: r-deegaanka-soomaalida
+
+- model: shortwave.broadcaster
+  pk: 205
+  fields:
+    broadcaster: R.Melodia
+    slug: r-melodia
+
+- model: shortwave.broadcaster
+  pk: 206
+  fields:
+    broadcaster: R.ROMANIA INT.(DRM)
+    slug: r-romania-int-drm
+
+- model: shortwave.broadcaster
+  pk: 207
+  fields:
+    broadcaster: R.Voz Missionaria
+    slug: r-voz-missionaria
+
+- model: shortwave.broadcaster
+  pk: 208
+  fields:
+    broadcaster: IBRA MEDIA(R.Sadaye Zindagi)
+    slug: ibra-media-r-sadaye-zindagi
+
+- model: shortwave.broadcaster
+  pk: 209
+  fields:
+    broadcaster: R.Algerienne Holy Qur`an
+    slug: r-algerienne-holy-qur-an
+
+- model: shortwave.broadcaster
+  pk: 210
+  fields:
+    broadcaster: R.Algerienne Chaine 1
+    slug: r-algerienne-chaine-1
+
+- model: shortwave.broadcaster
+  pk: 211
+  fields:
+    broadcaster: VOICE OF TURKEY
+    slug: voice-of-turkey
+
+- model: shortwave.broadcaster
+  pk: 212
+  fields:
+    broadcaster: VO Tigray Revolution
+    slug: vo-tigray-revolution
+
+- model: shortwave.broadcaster
+  pk: 213
+  fields:
+    broadcaster: WRMI NHK World Radio Japan
+    slug: wrmi-nhk-world-radio-japan
+
+- model: shortwave.broadcaster
+  pk: 214
+  fields:
+    broadcaster: WRMI Israel Radio
+    slug: wrmi-israel-radio
+
+- model: shortwave.broadcaster
+  pk: 215
+  fields:
+    broadcaster: WRMI Radio Slovakia
+    slug: wrmi-radio-slovakia
+
+- model: shortwave.broadcaster
+  pk: 216
+  fields:
+    broadcaster: WRMI
+    slug: wrmi
+
+- model: shortwave.broadcaster
+  pk: 217
+  fields:
+    broadcaster: WRMI Oldies with Bob Biermann
+    slug: wrmi-oldies-with-bob-biermann
+
+- model: shortwave.broadcaster
+  pk: 218
+  fields:
+    broadcaster: WRMI WRN
+    slug: wrmi-wrn
+
+- model: shortwave.broadcaster
+  pk: 219
+  fields:
+    broadcaster: RFI
+    slug: rfi
+
+- model: shortwave.broadcaster
+  pk: 220
+  fields:
+    broadcaster: Deutsche Welle
+    slug: deutsche-welle
+
+- model: shortwave.broadcaster
+  pk: 221
+  fields:
+    broadcaster: WRMI RAE Argentina
+    slug: wrmi-rae-argentina
+
+- model: shortwave.broadcaster
+  pk: 222
+  fields:
+    broadcaster: WRMI Viva Miami
+    slug: wrmi-viva-miami
+
+- model: shortwave.broadcaster
+  pk: 223
+  fields:
+    broadcaster: WRMI Blues Radio International
+    slug: wrmi-blues-radio-international
+
+- model: shortwave.broadcaster
+  pk: 224
+  fields:
+    broadcaster: WRMI Walking in Power
+    slug: wrmi-walking-in-power
+
+- model: shortwave.broadcaster
+  pk: 225
+  fields:
+    broadcaster: WRMI Your Weekend Show
+    slug: wrmi-your-weekend-show
+
+- model: shortwave.broadcaster
+  pk: 226
+  fields:
+    broadcaster: WRMI Famagusta Gazette Radio
+    slug: wrmi-famagusta-gazette-radio
+
+- model: shortwave.broadcaster
+  pk: 227
+  fields:
+    broadcaster: WRMI Studio DX
+    slug: wrmi-studio-dx
+
+- model: shortwave.broadcaster
+  pk: 228
+  fields:
+    broadcaster: WRMI World of Radio
+    slug: wrmi-world-of-radio
+
+- model: shortwave.broadcaster
+  pk: 229
+  fields:
+    broadcaster: WRMI Bible Commentary
+    slug: wrmi-bible-commentary
+
+- model: shortwave.broadcaster
+  pk: 230
+  fields:
+    broadcaster: Polish Radio
+    slug: polish-radio
+
+- model: shortwave.broadcaster
+  pk: 231
+  fields:
+    broadcaster: WRMI Las Nochescon Mirka
+    slug: wrmi-las-nochescon-mirka
+
+- model: shortwave.broadcaster
+  pk: 232
+  fields:
+    broadcaster: WRMI Media Network Plus
+    slug: wrmi-media-network-plus
+
+- model: shortwave.broadcaster
+  pk: 233
+  fields:
+    broadcaster: WRMI Frank/Ernest
+    slug: wrmi-frank-ernest
+
+- model: shortwave.broadcaster
+  pk: 234
+  fields:
+    broadcaster: WRMI Michael Medez Show
+    slug: wrmi-michael-medez-show
+
+- model: shortwave.broadcaster
+  pk: 235
+  fields:
+    broadcaster: Emisoras Pio XII
+    slug: emisoras-pio-xii
+
+- model: shortwave.broadcaster
+  pk: 236
+  fields:
+    broadcaster: R.Gazeta
+    slug: r-gazeta
+
+- model: shortwave.broadcaster
+  pk: 237
+  fields:
+    broadcaster: Studio 52
+    slug: studio-52
+
+- model: shortwave.broadcaster
+  pk: 238
+  fields:
+    broadcaster: Mighty KBC Radio
+    slug: mighty-kbc-radio
+
+- model: shortwave.broadcaster
+  pk: 239
+  fields:
+    broadcaster: R.KUWAIT
+    slug: r-kuwait
+
+- model: shortwave.broadcaster
+  pk: 240
+  fields:
+    broadcaster: Radio Ndarason International
+    slug: radio-ndarason-international
+
+- model: shortwave.broadcaster
+  pk: 241
+  fields:
+    broadcaster: R.Transmundial
+    slug: r-transmundial
+
+- model: shortwave.broadcaster
+  pk: 242
+  fields:
+    broadcaster: KSDA-ADVENTIST WORLD R.GUAM
+    slug: ksda-adventist-world-r-guam
+
+- model: shortwave.broadcaster
+  pk: 243
+  fields:
+    broadcaster: EWTN (WEWN)
+    slug: ewtn-wewn
+
+- model: shortwave.broadcaster
+  pk: 244
+  fields:
+    broadcaster: R.Itatiaia
+    slug: r-itatiaia
+
+- model: shortwave.broadcaster
+  pk: 245
+  fields:
+    broadcaster: CNR 8
+    slug: cnr-8
+
+- model: shortwave.broadcaster
+  pk: 246
+  fields:
+    broadcaster: Voice of Vietnam 1
+    slug: voice-of-vietnam-1
+
+- model: shortwave.broadcaster
+  pk: 247
+  fields:
+    broadcaster: R.NEW ZEALAND INT.DRM
+    slug: r-new-zealand-int-drm
+
+- model: shortwave.broadcaster
+  pk: 248
+  fields:
+    broadcaster: R.MARTI
+    slug: r-marti
+
+- model: shortwave.broadcaster
+  pk: 249
+  fields:
+    broadcaster: Radio Chaski
+    slug: radio-chaski
+
+- model: shortwave.broadcaster
+  pk: 250
+  fields:
+    broadcaster: Scandinav.Weekend R.
+    slug: scandinav-weekend-r
+
+- model: shortwave.broadcaster
+  pk: 251
+  fields:
+    broadcaster: Myanmar Radio (NHK)
+    slug: myanmar-radio-nhk
+
+- model: shortwave.broadcaster
+  pk: 252
+  fields:
+    broadcaster: Myanmar Radio (VOA)
+    slug: myanmar-radio-voa
+
+- model: shortwave.broadcaster
+  pk: 253
+  fields:
+    broadcaster: WRMI Hobart Radio International
+    slug: wrmi-hobart-radio-international
+
+- model: shortwave.broadcaster
+  pk: 254
+  fields:
+    broadcaster: WRMI Mike's Vintage Gospel
+    slug: wrmi-mike-s-vintage-gospel
+
+- model: shortwave.broadcaster
+  pk: 255
+  fields:
+    broadcaster: PBS Qinghai
+    slug: pbs-qinghai
+
+- model: shortwave.broadcaster
+  pk: 256
+  fields:
+    broadcaster: R.Senado
+    slug: r-senado
+
+- model: shortwave.broadcaster
+  pk: 257
+  fields:
+    broadcaster: R.MALI
+    slug: r-mali
+
+- model: shortwave.broadcaster
+  pk: 258
+  fields:
+    broadcaster: Adygeyan Radio
+    slug: adygeyan-radio
+
+- model: shortwave.broadcaster
+  pk: 259
+  fields:
+    broadcaster: Empresa Brasil de Comunicacao
+    slug: empresa-brasil-de-comunicacao
+
+- model: shortwave.broadcaster
+  pk: 260
+  fields:
+    broadcaster: R.Guaiba
+    slug: r-guaiba
+
+- model: shortwave.broadcaster
+  pk: 261
+  fields:
+    broadcaster: Voice of Mongolia
+    slug: voice-of-mongolia
+
+- model: shortwave.broadcaster
+  pk: 262
+  fields:
+    broadcaster: DP 07
+    slug: dp-07
+
+- model: shortwave.broadcaster
+  pk: 263
+  fields:
+    broadcaster: Radio Belarus
+    slug: radio-belarus
+
+- model: shortwave.broadcaster
+  pk: 264
+  fields:
+    broadcaster: Nordschleswiger
+    slug: nordschleswiger
+
+- model: shortwave.broadcaster
+  pk: 265
+  fields:
+    broadcaster: Radio IBC
+    slug: radio-ibc
+
+- model: shortwave.broadcaster
+  pk: 266
+  fields:
+    broadcaster: Polskie Radio
+    slug: polskie-radio
+
+- model: shortwave.broadcaster
+  pk: 267
+  fields:
+    broadcaster: Radio Amathusia
+    slug: radio-amathusia
+
+- model: shortwave.broadcaster
+  pk: 268
+  fields:
+    broadcaster: Holands Palet
+    slug: holands-palet
+
+- model: shortwave.broadcaster
+  pk: 269
+  fields:
+    broadcaster: CNR 11
+    slug: cnr-11
+
+- model: shortwave.broadcaster
+  pk: 270
+  fields:
+    broadcaster: R.BAHRAIN
+    slug: r-bahrain
+
+- model: shortwave.broadcaster
+  pk: 271
+  fields:
+    broadcaster: R.Inconfidencia
+    slug: r-inconfidencia
+
+- model: shortwave.broadcaster
+  pk: 272
+  fields:
+    broadcaster: Voz de tu Conciencia
+    slug: voz-de-tu-conciencia
+
+- model: shortwave.broadcaster
+  pk: 273
+  fields:
+    broadcaster: XEOI Nucleo Radio Mil
+    slug: xeoi-nucleo-radio-mil
+
+- model: shortwave.broadcaster
+  pk: 274
+  fields:
+    broadcaster: VATICAN RADIO
+    slug: vatican-radio
+
+- model: shortwave.broadcaster
+  pk: 275
+  fields:
+    broadcaster: KBS Hanminjok Bangsong 1
+    slug: kbs-hanminjok-bangsong-1
+
+- model: shortwave.broadcaster
+  pk: 276
+  fields:
+    broadcaster: Zanzibar Broadcasting Corporati
+    slug: zanzibar-broadcasting-corporati
+
+- model: shortwave.broadcaster
+  pk: 277
+  fields:
+    broadcaster: R.Gaucha
+    slug: r-gaucha
+
+- model: shortwave.broadcaster
+  pk: 278
+  fields:
+    broadcaster: R.Victoria
+    slug: r-victoria
+
+- model: shortwave.broadcaster
+  pk: 279
+  fields:
+    broadcaster: Voice of Vietnam 4
+    slug: voice-of-vietnam-4
+
+- model: shortwave.broadcaster
+  pk: 280
+  fields:
+    broadcaster: Radio Tamazuj
+    slug: radio-tamazuj
+
+- model: shortwave.broadcaster
+  pk: 281
+  fields:
+    broadcaster: R.Red Patria Nueva
+    slug: r-red-patria-nueva
+
+- model: shortwave.broadcaster
+  pk: 282
+  fields:
+    broadcaster: AIR New Delhi (Uttarakhand prog
+    slug: air-new-delhi-uttarakhand-prog
+
+- model: shortwave.broadcaster
+  pk: 283
+  fields:
+    broadcaster: CFVP Calgary
+    slug: cfvp-calgary
+
+- model: shortwave.broadcaster
+  pk: 284
+  fields:
+    broadcaster: CNR 1 (DRM)
+    slug: cnr-1-drm
+
+- model: shortwave.broadcaster
+  pk: 285
+  fields:
+    broadcaster: Radio Ndeke Luka
+    slug: radio-ndeke-luka
+
+- model: shortwave.broadcaster
+  pk: 286
+  fields:
+    broadcaster: Radio Oromiya
+    slug: radio-oromiya
+
+- model: shortwave.broadcaster
+  pk: 287
+  fields:
+    broadcaster: Thazin Radio
+    slug: thazin-radio
+
+- model: shortwave.broadcaster
+  pk: 288
+  fields:
+    broadcaster: Bhutan BS
+    slug: bhutan-bs
+
+- model: shortwave.broadcaster
+  pk: 289
+  fields:
+    broadcaster: PBS Yunnan "Voice of Shangri-La
+    slug: pbs-yunnan-voice-of-shangri-la
+
+- model: shortwave.broadcaster
+  pk: 290
+  fields:
+    broadcaster: PBS Nei Menggu
+    slug: pbs-nei-menggu
+
+- model: shortwave.broadcaster
+  pk: 291
+  fields:
+    broadcaster: PBS Nei Menggu (CNR8)
+    slug: pbs-nei-menggu-cnr8
+
+- model: shortwave.broadcaster
+  pk: 292
+  fields:
+    broadcaster: R.RB2
+    slug: r-rb2
+
+- model: shortwave.broadcaster
+  pk: 293
+  fields:
+    broadcaster: HIT AM
+    slug: hit-am
+
+- model: shortwave.broadcaster
+  pk: 294
+  fields:
+    broadcaster: National Unity Radio
+    slug: national-unity-radio
+
+- model: shortwave.broadcaster
+  pk: 295
+  fields:
+    broadcaster: Furusato no kaze
+    slug: furusato-no-kaze
+
+- model: shortwave.broadcaster
+  pk: 296
+  fields:
+    broadcaster: HCJB QUITO
+    slug: hcjb-quito
+
+- model: shortwave.broadcaster
+  pk: 297
+  fields:
+    broadcaster: Radio ELWA
+    slug: radio-elwa
+
+- model: shortwave.broadcaster
+  pk: 298
+  fields:
+    broadcaster: RTM Asyik FM
+    slug: rtm-asyik-fm
+
+- model: shortwave.broadcaster
+  pk: 299
+  fields:
+    broadcaster: Evangelische Missions Gemeinden
+    slug: evangelische-missions-gemeinden
+
+- model: shortwave.broadcaster
+  pk: 300
+  fields:
+    broadcaster: Missionswerk Friedensstimme
+    slug: missionswerk-friedensstimme
+
+- model: shortwave.broadcaster
+  pk: 301
+  fields:
+    broadcaster: PBS Sichuan 2
+    slug: pbs-sichuan-2
+
+- model: shortwave.broadcaster
+  pk: 302
+  fields:
+    broadcaster: R.Tupi/Super R.Deus e Amor
+    slug: r-tupi-super-r-deus-e-amor
+
+- model: shortwave.broadcaster
+  pk: 303
+  fields:
+    broadcaster: RFE/R.LIBERTY
+    slug: rfe-r-liberty
+
+- model: shortwave.broadcaster
+  pk: 304
+  fields:
+    broadcaster: CFRX Toronto
+    slug: cfrx-toronto
+
+- model: shortwave.broadcaster
+  pk: 305
+  fields:
+    broadcaster: R.Capital
+    slug: r-capital
+
+- model: shortwave.broadcaster
+  pk: 306
+  fields:
+    broadcaster: Radio Channel 292
+    slug: radio-channel-292
+
+- model: shortwave.broadcaster
+  pk: 307
+  fields:
+    broadcaster: Radio Waves International
+    slug: radio-waves-international
+
+- model: shortwave.broadcaster
+  pk: 308
+  fields:
+    broadcaster: Radio DARC
+    slug: radio-darc
+
+- model: shortwave.broadcaster
+  pk: 309
+  fields:
+    broadcaster: From the Isle of Music
+    slug: from-the-isle-of-music
+
+- model: shortwave.broadcaster
+  pk: 310
+  fields:
+    broadcaster: Hobart Radio International
+    slug: hobart-radio-international
+
+- model: shortwave.broadcaster
+  pk: 311
+  fields:
+    broadcaster: Voice of Korea
+    slug: voice-of-korea
+
+- model: shortwave.broadcaster
+  pk: 312
+  fields:
+    broadcaster: PBS Hulun Buir CNR8
+    slug: pbs-hulun-buir-cnr8
+
+- model: shortwave.broadcaster
+  pk: 313
+  fields:
+    broadcaster: Radio Marumby
+    slug: radio-marumby
+
+- model: shortwave.broadcaster
+  pk: 314
+  fields:
+    broadcaster: Shiokaze (Sea-breeze)
+    slug: shiokaze-sea-breeze
+
+- model: shortwave.broadcaster
+  pk: 315
+  fields:
+    broadcaster: Caribbean Beacon(University Net
+    slug: caribbean-beacon-university-net
+
+- model: shortwave.broadcaster
+  pk: 316
+  fields:
+    broadcaster: R.Bandeirantes
+    slug: r-bandeirantes
+
+- model: shortwave.broadcaster
+  pk: 317
+  fields:
+    broadcaster: R.Nigeria Kaduna
+    slug: r-nigeria-kaduna
+
+- model: shortwave.broadcaster
+  pk: 318
+  fields:
+    broadcaster: Radio Amhara
+    slug: radio-amhara
+
+- model: shortwave.broadcaster
+  pk: 319
+  fields:
+    broadcaster: AIR New Delhi (Vividh Bharati)
+    slug: air-new-delhi-vividh-bharati
+
+- model: shortwave.broadcaster
+  pk: 320
+  fields:
+    broadcaster: R.Afghanistan
+    slug: r-afghanistan
+
+- model: shortwave.broadcaster
+  pk: 321
+  fields:
+    broadcaster: R.Cancao Nova
+    slug: r-cancao-nova
+
+- model: shortwave.broadcaster
+  pk: 322
+  fields:
+    broadcaster: R.Filadelfia
+    slug: r-filadelfia
+
+- model: shortwave.broadcaster
+  pk: 323
+  fields:
+    broadcaster: R.Panamericana
+    slug: r-panamericana
+
+- model: shortwave.broadcaster
+  pk: 324
+  fields:
+    broadcaster: XEQM
+    slug: xeqm
+
+- model: shortwave.broadcaster
+  pk: 325
+  fields:
+    broadcaster: R.Fana
+    slug: r-fana
+
+- model: shortwave.broadcaster
+  pk: 326
+  fields:
+    broadcaster: RADIO CONGO
+    slug: radio-congo
+
+- model: shortwave.broadcaster
+  pk: 327
+  fields:
+    broadcaster: R.Globo/Super R.Deus e Amor
+    slug: r-globo-super-r-deus-e-amor
+
+- model: shortwave.broadcaster
+  pk: 328
+  fields:
+    broadcaster: BIBLE VOICE BCN
+    slug: bible-voice-bcn
+
+- model: shortwave.broadcaster
+  pk: 329
+  fields:
+    broadcaster: Lao National Radio
+    slug: lao-national-radio
+
+- model: shortwave.broadcaster
+  pk: 330
+  fields:
+    broadcaster: R.Santa Cruz
+    slug: r-santa-cruz
+
+- model: shortwave.broadcaster
+  pk: 331
+  fields:
+    broadcaster: R.Aparecida
+    slug: r-aparecida
+
+- model: shortwave.broadcaster
+  pk: 332
+  fields:
+    broadcaster: MV Baltic Radio
+    slug: mv-baltic-radio
+
+- model: shortwave.broadcaster
+  pk: 333
+  fields:
+    broadcaster: CNR 17
+    slug: cnr-17
+
+- model: shortwave.broadcaster
+  pk: 334
+  fields:
+    broadcaster: Europa 24
+    slug: europa-24
+
+- model: shortwave.broadcaster
+  pk: 335
+  fields:
+    broadcaster: Radio Marabu
+    slug: radio-marabu
+
+- model: shortwave.broadcaster
+  pk: 336
+  fields:
+    broadcaster: R.OESTERREICH INT.
+    slug: r-oesterreich-int
+
+- model: shortwave.broadcaster
+  pk: 337
+  fields:
+    broadcaster: AIR National Channel
+    slug: air-national-channel
+
+- model: shortwave.broadcaster
+  pk: 338
+  fields:
+    broadcaster: Nippon no Kaze"il bon ue baram"
+    slug: nippon-no-kaze-il-bon-ue-baram
+
+- model: shortwave.broadcaster
+  pk: 339
+  fields:
+    broadcaster: R.Boa Ventade
+    slug: r-boa-ventade
+
+- model: shortwave.broadcaster
+  pk: 340
+  fields:
+    broadcaster: R.Rio Mar
+    slug: r-rio-mar
+
+- model: shortwave.broadcaster
+  pk: 341
+  fields:
+    broadcaster: CNR 6
+    slug: cnr-6
+
+- model: shortwave.broadcaster
+  pk: 342
+  fields:
+    broadcaster: Zambia NBC Radio 2
+    slug: zambia-nbc-radio-2
+
+- model: shortwave.broadcaster
+  pk: 343
+  fields:
+    broadcaster: Zambia NBC Radio 2(VOA Africa)
+    slug: zambia-nbc-radio-2-voa-africa
+
+- model: shortwave.broadcaster
+  pk: 344
+  fields:
+    broadcaster: Voice of Korea (KCBS)
+    slug: voice-of-korea-kcbs
+
+- model: shortwave.broadcaster
+  pk: 345
+  fields:
+    broadcaster: R.Tawantinsuyo
+    slug: r-tawantinsuyo
+
+- model: shortwave.broadcaster
+  pk: 346
+  fields:
+    broadcaster: IBRA MEDIA/Radio Ibrahim
+    slug: ibra-media-radio-ibrahim
+
+- model: shortwave.broadcaster
+  pk: 347
+  fields:
+    broadcaster: World Christian Broadc.KNLS
+    slug: world-christian-broadc-knls
+
+- model: shortwave.broadcaster
+  pk: 348
+  fields:
+    broadcaster: China Huayi Bc.Corp.
+    slug: china-huayi-bc-corp
+
+- model: shortwave.broadcaster
+  pk: 349
+  fields:
+    broadcaster: XEPPM R.Educacion
+    slug: xeppm-r-educacion
+
+- model: shortwave.broadcaster
+  pk: 350
+  fields:
+    broadcaster: Hamburger Lokalradio
+    slug: hamburger-lokalradio
+
+- model: shortwave.broadcaster
+  pk: 351
+  fields:
+    broadcaster: VOICE OF JINLING
+    slug: voice-of-jinling
+
+- model: shortwave.broadcaster
+  pk: 352
+  fields:
+    broadcaster: SOH Xi Wang Zhi Sheng
+    slug: soh-xi-wang-zhi-sheng
+
+- model: shortwave.broadcaster
+  pk: 353
+  fields:
+    broadcaster: TWR India
+    slug: twr-india
+
+- model: shortwave.broadcaster
+  pk: 354
+  fields:
+    broadcaster: ReflectionsEurope
+    slug: reflectionseurope
+
+- model: shortwave.broadcaster
+  pk: 355
+  fields:
+    broadcaster: Radio Alice
+    slug: radio-alice
+
+- model: shortwave.broadcaster
+  pk: 356
+  fields:
+    broadcaster: Radio Voronezh
+    slug: radio-voronezh
+
+- model: shortwave.broadcaster
+  pk: 357
+  fields:
+    broadcaster: R.Hargeysa
+    slug: r-hargeysa
+
+- model: shortwave.broadcaster
+  pk: 358
+  fields:
+    broadcaster: Vo Broad Masses 1(Dimtsi Hafash
+    slug: vo-broad-masses-1-dimtsi-hafash
+
+- model: shortwave.broadcaster
+  pk: 359
+  fields:
+    broadcaster: Vo Broad Masses 2(Dimtsi Hafash
+    slug: vo-broad-masses-2-dimtsi-hafash
+
+- model: shortwave.broadcaster
+  pk: 360
+  fields:
+    broadcaster: Sudan Radio
+    slug: sudan-radio
+
+- model: shortwave.broadcaster
+  pk: 361
+  fields:
+    broadcaster: PBS Yunnan
+    slug: pbs-yunnan
+
+- model: shortwave.broadcaster
+  pk: 362
+  fields:
+    broadcaster: Afia Darfur/Hello Darfur
+    slug: afia-darfur-hello-darfur
+
+- model: shortwave.broadcaster
+  pk: 363
+  fields:
+    broadcaster: Athmik Yathra Radio(GFA)
+    slug: athmik-yathra-radio-gfa
+
+- model: shortwave.broadcaster
+  pk: 364
+  fields:
+    broadcaster: VOICE OF VIETNAM
+    slug: voice-of-vietnam
+
+- model: shortwave.broadcaster
+  pk: 365
+  fields:
+    broadcaster: R.ETHIOPIA
+    slug: r-ethiopia
+
+- model: shortwave.broadcaster
+  pk: 366
+  fields:
+    broadcaster: VO DEM.ALLIANCE
+    slug: vo-dem-alliance
+
+- model: shortwave.broadcaster
+  pk: 367
+  fields:
+    broadcaster: VO Eritrea
+    slug: vo-eritrea
+
+- model: shortwave.broadcaster
+  pk: 368
+  fields:
+    broadcaster: VO Peace/Democracy
+    slug: vo-peace-democracy
+
+- model: shortwave.broadcaster
+  pk: 369
+  fields:
+    broadcaster: R.SAUDI INTERNATIONAL
+    slug: r-saudi-international
+
+- model: shortwave.broadcaster
+  pk: 370
+  fields:
+    broadcaster: VOICE OF TAJIK
+    slug: voice-of-tajik
+
+- model: shortwave.broadcaster
+  pk: 371
+  fields:
+    broadcaster: AIR New Delhi
+    slug: air-new-delhi
+
+- model: shortwave.broadcaster
+  pk: 372
+  fields:
+    broadcaster: VOICE OF NIGERIA
+    slug: voice-of-nigeria
+
+- model: shortwave.broadcaster
+  pk: 373
+  fields:
+    broadcaster: Azad Jammu/Kashmir
+    slug: azad-jammu-kashmir
+
+- model: shortwave.broadcaster
+  pk: 374
+  fields:
+    broadcaster: AIR Chennai (FM Gold)
+    slug: air-chennai-fm-gold
+
+- model: shortwave.broadcaster
+  pk: 375
+  fields:
+    broadcaster: VOICE OF CHINA
+    slug: voice-of-china
+
+- model: shortwave.broadcaster
+  pk: 376
+  fields:
+    broadcaster: Guizhou PBS
+    slug: guizhou-pbs
+
+- model: shortwave.broadcaster
+  pk: 377
+  fields:
+    broadcaster: IRRS
+    slug: irrs
+
+- model: shortwave.broadcaster
+  pk: 378
+  fields:
+    broadcaster: IRRS Living the Bible
+    slug: irrs-living-the-bible
+
+- model: shortwave.broadcaster
+  pk: 379
+  fields:
+    broadcaster: IRRS Word for the World
+    slug: irrs-word-for-the-world
+
+- model: shortwave.broadcaster
+  pk: 380
+  fields:
+    broadcaster: RRI Nabire
+    slug: rri-nabire
+
+- model: shortwave.broadcaster
+  pk: 381
+  fields:
+    broadcaster: VOA RADIO ASHNA
+    slug: voa-radio-ashna
+
+- model: shortwave.broadcaster
+  pk: 382
+  fields:
+    broadcaster: HCJB Radio Akhbar Mufriha
+    slug: hcjb-radio-akhbar-mufriha
+
+- model: shortwave.broadcaster
+  pk: 383
+  fields:
+    broadcaster: Radio Dabanga
+    slug: radio-dabanga
+
+- model: shortwave.broadcaster
+  pk: 384
+  fields:
+    broadcaster: Dandal Kura Radio International
+    slug: dandal-kura-radio-international
+
+- model: shortwave.broadcaster
+  pk: 385
+  fields:
+    broadcaster: WHRI Jack Van Impe
+    slug: whri-jack-van-impe
+
+- model: shortwave.broadcaster
+  pk: 386
+  fields:
+    broadcaster: WHRI Water of Life
+    slug: whri-water-of-life
+
+- model: shortwave.broadcaster
+  pk: 387
+  fields:
+    broadcaster: WHRI Lester Sumrall Teachings
+    slug: whri-lester-sumrall-teachings
+
+- model: shortwave.broadcaster
+  pk: 388
+  fields:
+    broadcaster: WHRI Bishop S. C. Johnson
+    slug: whri-bishop-s-c-johnson
+
+- model: shortwave.broadcaster
+  pk: 389
+  fields:
+    broadcaster: WHRI Live From Studio B
+    slug: whri-live-from-studio-b
+
+- model: shortwave.broadcaster
+  pk: 390
+  fields:
+    broadcaster: WHRI CYPRESS
+    slug: whri-cypress
+
+- model: shortwave.broadcaster
+  pk: 391
+  fields:
+    broadcaster: WHRI Christian Worship Hour
+    slug: whri-christian-worship-hour
+
+- model: shortwave.broadcaster
+  pk: 392
+  fields:
+    broadcaster: WHRI The Christian Worship Hour
+    slug: whri-the-christian-worship-hour
+
+- model: shortwave.broadcaster
+  pk: 393
+  fields:
+    broadcaster: WHRI Prayerline Presents
+    slug: whri-prayerline-presents
+
+- model: shortwave.broadcaster
+  pk: 394
+  fields:
+    broadcaster: WHRI Midnight Cry
+    slug: whri-midnight-cry
+
+- model: shortwave.broadcaster
+  pk: 395
+  fields:
+    broadcaster: WHRI Making Disciples
+    slug: whri-making-disciples
+
+- model: shortwave.broadcaster
+  pk: 396
+  fields:
+    broadcaster: WHRI Greater Way Radio
+    slug: whri-greater-way-radio
+
+- model: shortwave.broadcaster
+  pk: 397
+  fields:
+    broadcaster: WHRI Eternal Good News
+    slug: whri-eternal-good-news
+
+- model: shortwave.broadcaster
+  pk: 398
+  fields:
+    broadcaster: FEBA RADIO Pakistan
+    slug: feba-radio-pakistan
+
+- model: shortwave.broadcaster
+  pk: 399
+  fields:
+    broadcaster: Wantok Radio Light
+    slug: wantok-radio-light
+
+- model: shortwave.broadcaster
+  pk: 400
+  fields:
+    broadcaster: Radio Joystick
+    slug: radio-joystick
+
+- model: shortwave.broadcaster
+  pk: 401
+  fields:
+    broadcaster: Numbers Station 2
+    slug: numbers-station-2
+
+- model: shortwave.broadcaster
+  pk: 402
+  fields:
+    broadcaster: WHRI Water of Life Ministries
+    slug: whri-water-of-life-ministries
+
+- model: shortwave.broadcaster
+  pk: 403
+  fields:
+    broadcaster: WHRI Truth Light and Life
+    slug: whri-truth-light-and-life
+
+- model: shortwave.broadcaster
+  pk: 404
+  fields:
+    broadcaster: WHRI Call to Worship
+    slug: whri-call-to-worship
+
+- model: shortwave.broadcaster
+  pk: 405
+  fields:
+    broadcaster: WHRI Victory Baptist Church
+    slug: whri-victory-baptist-church
+
+- model: shortwave.broadcaster
+  pk: 406
+  fields:
+    broadcaster: R.NEW ZEALAND INT.
+    slug: r-new-zealand-int
+
+- model: shortwave.broadcaster
+  pk: 407
+  fields:
+    broadcaster: FEBC RADIO
+    slug: febc-radio
+
+- model: shortwave.broadcaster
+  pk: 408
+  fields:
+    broadcaster: R.SAUDI
+    slug: r-saudi
+
+- model: shortwave.broadcaster
+  pk: 409
+  fields:
+    broadcaster: PBS Nei Menggu (CNR1)
+    slug: pbs-nei-menggu-cnr1
+
+- model: shortwave.broadcaster
+  pk: 410
+  fields:
+    broadcaster: Follow The Bible Ministries
+    slug: follow-the-bible-ministries
+
+- model: shortwave.broadcaster
+  pk: 411
+  fields:
+    broadcaster: YHWH
+    slug: yhwh
+
+- model: shortwave.broadcaster
+  pk: 412
+  fields:
+    broadcaster: VOA DEEWA RADIO
+    slug: voa-deewa-radio
+
+- model: shortwave.broadcaster
+  pk: 413
+  fields:
+    broadcaster: VOICE OF TIBET
+    slug: voice-of-tibet
+
+- model: shortwave.broadcaster
+  pk: 414
+  fields:
+    broadcaster: WBCQ Alan Sane
+    slug: wbcq-alan-sane
+
+- model: shortwave.broadcaster
+  pk: 415
+  fields:
+    broadcaster: WBCQ Behavior Night
+    slug: wbcq-behavior-night
+
+- model: shortwave.broadcaster
+  pk: 416
+  fields:
+    broadcaster: WBCQ Deadfrog Radio
+    slug: wbcq-deadfrog-radio
+
+- model: shortwave.broadcaster
+  pk: 417
+  fields:
+    broadcaster: WBCQ Financial Survival
+    slug: wbcq-financial-survival
+
+- model: shortwave.broadcaster
+  pk: 418
+  fields:
+    broadcaster: WBCQ From the Isle of Music
+    slug: wbcq-from-the-isle-of-music
+
+- model: shortwave.broadcaster
+  pk: 419
+  fields:
+    broadcaster: WBCQ Just Right
+    slug: wbcq-just-right
+
+- model: shortwave.broadcaster
+  pk: 420
+  fields:
+    broadcaster: WBCQ Keeping It Real Variety Sh
+    slug: wbcq-keeping-it-real-variety-sh
+
+- model: shortwave.broadcaster
+  pk: 421
+  fields:
+    broadcaster: WBCQ Lakeside Lifeline
+    slug: wbcq-lakeside-lifeline
+
+- model: shortwave.broadcaster
+  pk: 422
+  fields:
+    broadcaster: WBCQ Le Show with Harry Shearer
+    slug: wbcq-le-show-with-harry-shearer
+
+- model: shortwave.broadcaster
+  pk: 423
+  fields:
+    broadcaster: WBCQ Marion's Attic
+    slug: wbcq-marion-s-attic
+
+- model: shortwave.broadcaster
+  pk: 424
+  fields:
+    broadcaster: WBCQ Shortwave Saturday Night
+    slug: wbcq-shortwave-saturday-night
+
+- model: shortwave.broadcaster
+  pk: 425
+  fields:
+    broadcaster: WBCQ VORW Radio
+    slug: wbcq-vorw-radio
+
+- model: shortwave.broadcaster
+  pk: 426
+  fields:
+    broadcaster: North Korea Reform Radio
+    slug: north-korea-reform-radio
+
+- model: shortwave.broadcaster
+  pk: 427
+  fields:
+    broadcaster: KTWR GUAM(Friendship Radio Hour
+    slug: ktwr-guam-friendship-radio-hour
+
+- model: shortwave.broadcaster
+  pk: 428
+  fields:
+    broadcaster: Voice of Martyrs
+    slug: voice-of-martyrs
+
+- model: shortwave.broadcaster
+  pk: 429
+  fields:
+    broadcaster: WRNO
+    slug: wrno
+
+- model: shortwave.broadcaster
+  pk: 430
+  fields:
+    broadcaster: WRNO Grace for Today
+    slug: wrno-grace-for-today
+
+- model: shortwave.broadcaster
+  pk: 431
+  fields:
+    broadcaster: FEBA RADIO
+    slug: feba-radio
+
+- model: shortwave.broadcaster
+  pk: 432
+  fields:
+    broadcaster: KTWR GUAM
+    slug: ktwr-guam
+
+- model: shortwave.broadcaster
+  pk: 433
+  fields:
+    broadcaster: Voice of Spring(Sedoye Bahar)
+    slug: voice-of-spring-sedoye-bahar
+
+- model: shortwave.broadcaster
+  pk: 434
+  fields:
+    broadcaster: Reach Beyond Australia (HCJB)
+    slug: reach-beyond-australia-hcjb
+
+- model: shortwave.broadcaster
+  pk: 435
+  fields:
+    broadcaster: Suab Xaa Moo Zoo(Vo.Hope)
+    slug: suab-xaa-moo-zoo-vo-hope
+
+- model: shortwave.broadcaster
+  pk: 436
+  fields:
+    broadcaster: Radio Ranginkaman (Rainbow)
+    slug: radio-ranginkaman-rainbow
+
+- model: shortwave.broadcaster
+  pk: 437
+  fields:
+    broadcaster: Radio Free North Korea
+    slug: radio-free-north-korea
+
+- model: shortwave.broadcaster
+  pk: 438
+  fields:
+    broadcaster: Voice of Wilderness
+    slug: voice-of-wilderness
+
+- model: shortwave.broadcaster
+  pk: 439
+  fields:
+    broadcaster: WRMI Sounding the Alam
+    slug: wrmi-sounding-the-alam
+
+- model: shortwave.broadcaster
+  pk: 440
+  fields:
+    broadcaster: WRMI Jazz from the Left
+    slug: wrmi-jazz-from-the-left
+
+- model: shortwave.broadcaster
+  pk: 441
+  fields:
+    broadcaster: WRMI Arabic Radio Program
+    slug: wrmi-arabic-radio-program
+
+- model: shortwave.broadcaster
+  pk: 442
+  fields:
+    broadcaster: WRMI R.Ukraina Int.
+    slug: wrmi-r-ukraina-int
+
+- model: shortwave.broadcaster
+  pk: 443
+  fields:
+    broadcaster: WRMI Living Water Ministry
+    slug: wrmi-living-water-ministry
+
+- model: shortwave.broadcaster
+  pk: 444
+  fields:
+    broadcaster: WRMI Music Moment
+    slug: wrmi-music-moment
+
+- model: shortwave.broadcaster
+  pk: 445
+  fields:
+    broadcaster: WRMI His Prayer for You
+    slug: wrmi-his-prayer-for-you
+
+- model: shortwave.broadcaster
+  pk: 446
+  fields:
+    broadcaster: WRMI Radiopanorama
+    slug: wrmi-radiopanorama
+
+- model: shortwave.broadcaster
+  pk: 447
+  fields:
+    broadcaster: WRMI Made in Italy
+    slug: wrmi-made-in-italy
+
+- model: shortwave.broadcaster
+  pk: 448
+  fields:
+    broadcaster: WRMI Military Retirement
+    slug: wrmi-military-retirement
+
+- model: shortwave.broadcaster
+  pk: 449
+  fields:
+    broadcaster: WRMI I Love Italy
+    slug: wrmi-i-love-italy
+
+- model: shortwave.broadcaster
+  pk: 450
+  fields:
+    broadcaster: XingXing guangbo diantai 4
+    slug: xingxing-guangbo-diantai-4
+
+- model: shortwave.broadcaster
+  pk: 451
+  fields:
+    broadcaster: Cuban Spy Numers
+    slug: cuban-spy-numers
+
+- model: shortwave.broadcaster
+  pk: 452
+  fields:
+    broadcaster: WINB
+    slug: winb
+
+- model: shortwave.broadcaster
+  pk: 453
+  fields:
+    broadcaster: SOH rely RFA
+    slug: soh-rely-rfa
+
+- model: shortwave.broadcaster
+  pk: 454
+  fields:
+    broadcaster: WRMI RAE Argentina to the World
+    slug: wrmi-rae-argentina-to-the-world
+
+- model: shortwave.broadcaster
+  pk: 455
+  fields:
+    broadcaster: WRMI Christmas Radio
+    slug: wrmi-christmas-radio
+
+- model: shortwave.broadcaster
+  pk: 456
+  fields:
+    broadcaster: Shortwave Radiogram
+    slug: shortwave-radiogram
+
+- model: shortwave.broadcaster
+  pk: 457
+  fields:
+    broadcaster: Isle of Music
+    slug: isle-of-music
+
+- model: shortwave.broadcaster
+  pk: 458
+  fields:
+    broadcaster: End Times Coming Radio
+    slug: end-times-coming-radio
+
+- model: shortwave.broadcaster
+  pk: 459
+  fields:
+    broadcaster: Fu Hsing BS
+    slug: fu-hsing-bs
+
+- model: shortwave.broadcaster
+  pk: 460
+  fields:
+    broadcaster: CNR 13
+    slug: cnr-13
+
+- model: shortwave.broadcaster
+  pk: 461
+  fields:
+    broadcaster: Helliniki Radiophonia
+    slug: helliniki-radiophonia
+
+- model: shortwave.broadcaster
+  pk: 462
+  fields:
+    broadcaster: R.CAIRO
+    slug: r-cairo
+
+- model: shortwave.broadcaster
+  pk: 463
+  fields:
+    broadcaster: WRMI The Hal Turner Show
+    slug: wrmi-the-hal-turner-show
+
+- model: shortwave.broadcaster
+  pk: 464
+  fields:
+    broadcaster: World of Radio
+    slug: world-of-radio
+
+- model: shortwave.broadcaster
+  pk: 465
+  fields:
+    broadcaster: Radio Republica
+    slug: radio-republica
+
+- model: shortwave.broadcaster
+  pk: 466
+  fields:
+    broadcaster: R.Record
+    slug: r-record
+
+- model: shortwave.broadcaster
+  pk: 467
+  fields:
+    broadcaster: Voice of Africa
+    slug: voice-of-africa
+
+- model: shortwave.broadcaster
+  pk: 468
+  fields:
+    broadcaster: WHRI Want To Live Forever
+    slug: whri-want-to-live-forever
+
+- model: shortwave.broadcaster
+  pk: 469
+  fields:
+    broadcaster: WHRI Loren Davis Ministries
+    slug: whri-loren-davis-ministries
+
+- model: shortwave.broadcaster
+  pk: 470
+  fields:
+    broadcaster: WHRI Full Gospel Holiness Churc
+    slug: whri-full-gospel-holiness-churc
+
+- model: shortwave.broadcaster
+  pk: 471
+  fields:
+    broadcaster: WHRI British Israel Foundation
+    slug: whri-british-israel-foundation
+
+- model: shortwave.broadcaster
+  pk: 472
+  fields:
+    broadcaster: IRRS Radio City
+    slug: irrs-radio-city
+
+- model: shortwave.broadcaster
+  pk: 473
+  fields:
+    broadcaster: IRRS European Gospel Radio
+    slug: irrs-european-gospel-radio
+
+- model: shortwave.broadcaster
+  pk: 474
+  fields:
+    broadcaster: PAN AMERICAN BC
+    slug: pan-american-bc
+
+- model: shortwave.broadcaster
+  pk: 475
+  fields:
+    broadcaster: Voice of Welt(Radyo Denge Welat
+    slug: voice-of-welt-radyo-denge-welat
+
+- model: shortwave.broadcaster
+  pk: 476
+  fields:
+    broadcaster: Radio Abkhazia
+    slug: radio-abkhazia
+
+- model: shortwave.broadcaster
+  pk: 477
+  fields:
+    broadcaster: R.SULTANATE OF OMAN
+    slug: r-sultanate-of-oman
+
+- model: shortwave.broadcaster
+  pk: 478
+  fields:
+    broadcaster: FEBA Radio India
+    slug: feba-radio-india
+
+- model: shortwave.broadcaster
+  pk: 479
+  fields:
+    broadcaster: FEBA Radio/Radio Ibrahim
+    slug: feba-radio-radio-ibrahim
+
+- model: shortwave.broadcaster
+  pk: 480
+  fields:
+    broadcaster: R.Herwa International
+    slug: r-herwa-international
+
+- model: shortwave.broadcaster
+  pk: 481
+  fields:
+    broadcaster: Super R.Deus e Amor
+    slug: super-r-deus-e-amor
+
+- model: shortwave.broadcaster
+  pk: 482
+  fields:
+    broadcaster: VO OROMO LIBERATION
+    slug: vo-oromo-liberation
+
+- model: shortwave.broadcaster
+  pk: 483
+  fields:
+    broadcaster: IBRA MEDIA/Radio Sama
+    slug: ibra-media-radio-sama
+
+- model: shortwave.broadcaster
+  pk: 484
+  fields:
+    broadcaster: Radio Guinea
+    slug: radio-guinea
+
+- model: shortwave.broadcaster
+  pk: 485
+  fields:
+    broadcaster: R.Pacifico
+    slug: r-pacifico
+
+- model: shortwave.broadcaster
+  pk: 486
+  fields:
+    broadcaster: R.EXTERIOR DE ESPANA
+    slug: r-exterior-de-espana
+
+- model: shortwave.broadcaster
+  pk: 487
+  fields:
+    broadcaster: R.VERITAS ASIA
+    slug: r-veritas-asia
+
+- model: shortwave.broadcaster
+  pk: 488
+  fields:
+    broadcaster: SRI LANKA BC
+    slug: sri-lanka-bc
+
+- model: shortwave.broadcaster
+  pk: 489
+  fields:
+    broadcaster: Dimtse Radio Erena
+    slug: dimtse-radio-erena
+
+- model: shortwave.broadcaster
+  pk: 490
+  fields:
+    broadcaster: R.Sawtu Linjilia(Voice of Gospe
+    slug: r-sawtu-linjilia-voice-of-gospe
+
+- model: shortwave.broadcaster
+  pk: 491
+  fields:
+    broadcaster: RADIO 9 DE JULHO
+    slug: radio-9-de-julho
+
+- model: shortwave.broadcaster
+  pk: 492
+  fields:
+    broadcaster: WHRI La Voix Des Eaux Vivantes
+    slug: whri-la-voix-des-eaux-vivantes
+
+- model: shortwave.broadcaster
+  pk: 493
+  fields:
+    broadcaster: WHRI Beacon of Truth Broadcast
+    slug: whri-beacon-of-truth-broadcast
+
+- model: shortwave.broadcaster
+  pk: 494
+  fields:
+    broadcaster: RTM Sarawak FM
+    slug: rtm-sarawak-fm
+
+- model: shortwave.broadcaster
+  pk: 495
+  fields:
+    broadcaster: WHRI New Beginnings Church
+    slug: whri-new-beginnings-church
+
+- model: shortwave.broadcaster
+  pk: 496
+  fields:
+    broadcaster: WHRI Eternal Truth presented
+    slug: whri-eternal-truth-presented
+
+- model: shortwave.broadcaster
+  pk: 497
+  fields:
+    broadcaster: WHRI Christian Crusaders
+    slug: whri-christian-crusaders
+
+- model: shortwave.broadcaster
+  pk: 498
+  fields:
+    broadcaster: KTWR GUAM Unlimited Grace
+    slug: ktwr-guam-unlimited-grace
+
+- model: shortwave.broadcaster
+  pk: 499
+  fields:
+    broadcaster: KTWR GUAM Leading the Way Minst
+    slug: ktwr-guam-leading-the-way-minst
+
+- model: shortwave.broadcaster
+  pk: 500
+  fields:
+    broadcaster: KTWR GUAM The Lord's Challenge
+    slug: ktwr-guam-the-lord-s-challenge
+
+- model: shortwave.broadcaster
+  pk: 501
+  fields:
+    broadcaster: KTWR GUAM Macedonian Call
+    slug: ktwr-guam-macedonian-call
+
+- model: shortwave.broadcaster
+  pk: 502
+  fields:
+    broadcaster: KTWR GUAM Do You Know
+    slug: ktwr-guam-do-you-know
+
+- model: shortwave.broadcaster
+  pk: 503
+  fields:
+    broadcaster: R.PILIPINAS
+    slug: r-pilipinas
+
+- model: shortwave.broadcaster
+  pk: 504
+  fields:
+    broadcaster: T8WH Lester Sumrall Teachings
+    slug: t8wh-lester-sumrall-teachings
+
+- model: shortwave.broadcaster
+  pk: 505
+  fields:
+    broadcaster: T8WH Preparing For Jesus
+    slug: t8wh-preparing-for-jesus
+
+- model: shortwave.broadcaster
+  pk: 506
+  fields:
+    broadcaster: T8WH Music
+    slug: t8wh-music
+
+- model: shortwave.broadcaster
+  pk: 507
+  fields:
+    broadcaster: T8WH Knowing the Word
+    slug: t8wh-knowing-the-word
+
+- model: shortwave.broadcaster
+  pk: 508
+  fields:
+    broadcaster: T8WH Believe Right
+    slug: t8wh-believe-right
+
+- model: shortwave.broadcaster
+  pk: 509
+  fields:
+    broadcaster: T8WH Christian Worship Hour
+    slug: t8wh-christian-worship-hour
+
+- model: shortwave.broadcaster
+  pk: 510
+  fields:
+    broadcaster: T8WH Midnight Cry Ministries
+    slug: t8wh-midnight-cry-ministries
+
+- model: shortwave.broadcaster
+  pk: 511
+  fields:
+    broadcaster: T8WH Zion Teacher
+    slug: t8wh-zion-teacher
+
+- model: shortwave.broadcaster
+  pk: 512
+  fields:
+    broadcaster: T8WH New Beginnings Church.Worl
+    slug: t8wh-new-beginnings-church-worl
+
+- model: shortwave.broadcaster
+  pk: 513
+  fields:
+    broadcaster: T8WH In Search of Truth
+    slug: t8wh-in-search-of-truth
+
+- model: shortwave.broadcaster
+  pk: 514
+  fields:
+    broadcaster: T8WH Water of Life
+    slug: t8wh-water-of-life
+
+- model: shortwave.broadcaster
+  pk: 515
+  fields:
+    broadcaster: T8WH Heart To Heart
+    slug: t8wh-heart-to-heart
+
+- model: shortwave.broadcaster
+  pk: 516
+  fields:
+    broadcaster: T8WH Easy English Studies
+    slug: t8wh-easy-english-studies
+
+- model: shortwave.broadcaster
+  pk: 517
+  fields:
+    broadcaster: T8WH Live From Studio B
+    slug: t8wh-live-from-studio-b
+
+- model: shortwave.broadcaster
+  pk: 518
+  fields:
+    broadcaster: T8WH Beacon of Truth Broadcast
+    slug: t8wh-beacon-of-truth-broadcast
+
+- model: shortwave.broadcaster
+  pk: 519
+  fields:
+    broadcaster: T8WH Donald Raymond
+    slug: t8wh-donald-raymond
+
+- model: shortwave.broadcaster
+  pk: 520
+  fields:
+    broadcaster: T8WH Moment By Moment
+    slug: t8wh-moment-by-moment
+
+- model: shortwave.broadcaster
+  pk: 521
+  fields:
+    broadcaster: T8WH Jack Van Impe
+    slug: t8wh-jack-van-impe
+
+- model: shortwave.broadcaster
+  pk: 522
+  fields:
+    broadcaster: T8WH Living The Bible
+    slug: t8wh-living-the-bible
+
+- model: shortwave.broadcaster
+  pk: 523
+  fields:
+    broadcaster: T8WH Christ Gospel
+    slug: t8wh-christ-gospel
+
+- model: shortwave.broadcaster
+  pk: 524
+  fields:
+    broadcaster: T8WH Believe Right(MFC Ministri
+    slug: t8wh-believe-right-mfc-ministri
+
+- model: shortwave.broadcaster
+  pk: 525
+  fields:
+    broadcaster: T8WH The Gospel For God's Glory
+    slug: t8wh-the-gospel-for-god-s-glory
+
+- model: shortwave.broadcaster
+  pk: 526
+  fields:
+    broadcaster: WRMI Ac Venezolano
+    slug: wrmi-ac-venezolano
+
+- model: shortwave.broadcaster
+  pk: 527
+  fields:
+    broadcaster: WRMI Maravillosas Palabras
+    slug: wrmi-maravillosas-palabras
+
+- model: shortwave.broadcaster
+  pk: 528
+  fields:
+    broadcaster: WRMI Australian DX Rpt
+    slug: wrmi-australian-dx-rpt
+
+- model: shortwave.broadcaster
+  pk: 529
+  fields:
+    broadcaster: WRMI Moderna
+    slug: wrmi-moderna
+
+- model: shortwave.broadcaster
+  pk: 530
+  fields:
+    broadcaster: WRMI Buscando la Verdad
+    slug: wrmi-buscando-la-verdad
+
+- model: shortwave.broadcaster
+  pk: 531
+  fields:
+    broadcaster: WRMI Bajo el Sol de Miami
+    slug: wrmi-bajo-el-sol-de-miami
+
+- model: shortwave.broadcaster
+  pk: 532
+  fields:
+    broadcaster: WRMI Trova Libre
+    slug: wrmi-trova-libre
+
+- model: shortwave.broadcaster
+  pk: 533
+  fields:
+    broadcaster: WRMI Verdad para el Mundo
+    slug: wrmi-verdad-para-el-mundo
+
+- model: shortwave.broadcaster
+  pk: 534
+  fields:
+    broadcaster: WRMI Coming Home
+    slug: wrmi-coming-home
+
+- model: shortwave.broadcaster
+  pk: 535
+  fields:
+    broadcaster: WRMI Faro de la Verdad
+    slug: wrmi-faro-de-la-verdad
+
+- model: shortwave.broadcaster
+  pk: 536
+  fields:
+    broadcaster: WRMI Moments in Bible Prophecy
+    slug: wrmi-moments-in-bible-prophecy
+
+- model: shortwave.broadcaster
+  pk: 537
+  fields:
+    broadcaster: WRMI Upward Look Forum
+    slug: wrmi-upward-look-forum
+
+- model: shortwave.broadcaster
+  pk: 538
+  fields:
+    broadcaster: WRMI Yeshua Prayer
+    slug: wrmi-yeshua-prayer
+
+- model: shortwave.broadcaster
+  pk: 539
+  fields:
+    broadcaster: WRMI Christ Gospel BC
+    slug: wrmi-christ-gospel-bc
+
+- model: shortwave.broadcaster
+  pk: 540
+  fields:
+    broadcaster: WRMI Jack Van Impe
+    slug: wrmi-jack-van-impe
+
+- model: shortwave.broadcaster
+  pk: 541
+  fields:
+    broadcaster: WRMI Reality in Jesus
+    slug: wrmi-reality-in-jesus
+
+- model: shortwave.broadcaster
+  pk: 542
+  fields:
+    broadcaster: WRMI JDL Gospel
+    slug: wrmi-jdl-gospel
+
+- model: shortwave.broadcaster
+  pk: 543
+  fields:
+    broadcaster: WRMI Gospel of the Kingdom
+    slug: wrmi-gospel-of-the-kingdom
+
+- model: shortwave.broadcaster
+  pk: 544
+  fields:
+    broadcaster: WRMI Living the Bible
+    slug: wrmi-living-the-bible
+
+- model: shortwave.broadcaster
+  pk: 545
+  fields:
+    broadcaster: WRMI Word of Life
+    slug: wrmi-word-of-life
+
+- model: shortwave.broadcaster
+  pk: 546
+  fields:
+    broadcaster: WRMI Word for the World
+    slug: wrmi-word-for-the-world
+
+- model: shortwave.broadcaster
+  pk: 547
+  fields:
+    broadcaster: WRMI Impact Radio
+    slug: wrmi-impact-radio
+
+- model: shortwave.broadcaster
+  pk: 548
+  fields:
+    broadcaster: WRMI A Visit with Adele
+    slug: wrmi-a-visit-with-adele
+
+- model: shortwave.broadcaster
+  pk: 549
+  fields:
+    broadcaster: WRMI Mike Gospel
+    slug: wrmi-mike-gospel
+
+- model: shortwave.broadcaster
+  pk: 550
+  fields:
+    broadcaster: WRMI Noticero
+    slug: wrmi-noticero
+
+- model: shortwave.broadcaster
+  pk: 551
+  fields:
+    broadcaster: WRMI R.Libertad
+    slug: wrmi-r-libertad
+
+- model: shortwave.broadcaster
+  pk: 552
+  fields:
+    broadcaster: T8WH The Christian Worship Hour
+    slug: t8wh-the-christian-worship-hour
+
+- model: shortwave.broadcaster
+  pk: 553
+  fields:
+    broadcaster: T8WH New Beginnings Church
+    slug: t8wh-new-beginnings-church
+
+- model: shortwave.broadcaster
+  pk: 554
+  fields:
+    broadcaster: T8WH Power of the World
+    slug: t8wh-power-of-the-world
+
+- model: shortwave.broadcaster
+  pk: 555
+  fields:
+    broadcaster: T8WH News/Music
+    slug: t8wh-news-music
+
+- model: shortwave.broadcaster
+  pk: 556
+  fields:
+    broadcaster: T8WH Vision for Christ
+    slug: t8wh-vision-for-christ
+
+- model: shortwave.broadcaster
+  pk: 557
+  fields:
+    broadcaster: T8WH
+    slug: t8wh
+
+- model: shortwave.broadcaster
+  pk: 558
+  fields:
+    broadcaster: T8WH Anush John
+    slug: t8wh-anush-john
+
+- model: shortwave.broadcaster
+  pk: 559
+  fields:
+    broadcaster: T8WH Hope For Today
+    slug: t8wh-hope-for-today
+
+- model: shortwave.broadcaster
+  pk: 560
+  fields:
+    broadcaster: T8WH Time With Pastor
+    slug: t8wh-time-with-pastor
+
+- model: shortwave.broadcaster
+  pk: 561
+  fields:
+    broadcaster: XingXing guangbo diantai 2
+    slug: xingxing-guangbo-diantai-2
+
+- model: shortwave.broadcaster
+  pk: 562
+  fields:
+    broadcaster: Eye Radio
+    slug: eye-radio
+
+- model: shortwave.broadcaster
+  pk: 563
+  fields:
+    broadcaster: World Wide Broadacast Network
+    slug: world-wide-broadacast-network
+
+- model: shortwave.broadcaster
+  pk: 564
+  fields:
+    broadcaster: RTM Wai/Limbang FM
+    slug: rtm-wai-limbang-fm
+
+- model: shortwave.broadcaster
+  pk: 565
+  fields:
+    broadcaster: T8WH Call To Worship
+    slug: t8wh-call-to-worship
+
+- model: shortwave.broadcaster
+  pk: 566
+  fields:
+    broadcaster: R Novas de Paz
+    slug: r-novas-de-paz
+
+- model: shortwave.broadcaster
+  pk: 567
+  fields:
+    broadcaster: Al-Azm Radio
+    slug: al-azm-radio
+
+- model: shortwave.broadcaster
+  pk: 568
+  fields:
+    broadcaster: WHRI IHealing/Revelation
+    slug: whri-ihealing-revelation
+
+- model: shortwave.broadcaster
+  pk: 569
+  fields:
+    broadcaster: WHRI Knowing The Word
+    slug: whri-knowing-the-word
+
+- model: shortwave.broadcaster
+  pk: 570
+  fields:
+    broadcaster: WHRI Prophetic Intuition
+    slug: whri-prophetic-intuition
+
+- model: shortwave.broadcaster
+  pk: 571
+  fields:
+    broadcaster: RN da Amazonia
+    slug: rn-da-amazonia
+
+- model: shortwave.broadcaster
+  pk: 572
+  fields:
+    broadcaster: R.Daqui
+    slug: r-daqui
+
+- model: shortwave.broadcaster
+  pk: 573
+  fields:
+    broadcaster: Republic of Yemen Radio
+    slug: republic-of-yemen-radio
+
+- model: shortwave.broadcaster
+  pk: 574
+  fields:
+    broadcaster: R.Legiao da Boa Vontade
+    slug: r-legiao-da-boa-vontade
+
+- model: shortwave.broadcaster
+  pk: 575
+  fields:
+    broadcaster: BIBLE VOICE BCN Christ Gospel
+    slug: bible-voice-bcn-christ-gospel
+
+- model: shortwave.broadcaster
+  pk: 576
+  fields:
+    broadcaster: World Christian Broadc.KNLS R.F
+    slug: world-christian-broadc-knls-r-f
+
+- model: shortwave.broadcaster
+  pk: 577
+  fields:
+    broadcaster: World Christian Broadc.KNLS Lig
+    slug: world-christian-broadc-knls-lig
+
+- model: shortwave.broadcaster
+  pk: 578
+  fields:
+    broadcaster: R.KUWAIT (DRM)
+    slug: r-kuwait-drm
+
+- model: shortwave.broadcaster
+  pk: 579
+  fields:
+    broadcaster: Radio Xoriyo Ogaden
+    slug: radio-xoriyo-ogaden
+
+- model: shortwave.broadcaster
+  pk: 580
+  fields:
+    broadcaster: R.AZADI (R.Free Afghanistan)
+    slug: r-azadi-r-free-afghanistan
+
+- model: shortwave.broadcaster
+  pk: 581
+  fields:
+    broadcaster: R.MASHAAL
+    slug: r-mashaal
+
+- model: shortwave.broadcaster
+  pk: 582
+  fields:
+    broadcaster: Voice of Khmer M'Chas Srok
+    slug: voice-of-khmer-m-chas-srok
+
+- model: shortwave.broadcaster
+  pk: 583
+  fields:
+    broadcaster: S06 Spy Numbers
+    slug: s06-spy-numbers
+
+- model: shortwave.broadcaster
+  pk: 584
+  fields:
+    broadcaster: Radio Publique Africaine
+    slug: radio-publique-africaine
+
+- model: shortwave.broadcaster
+  pk: 585
+  fields:
+    broadcaster: XingXing guangbo diantai 1
+    slug: xingxing-guangbo-diantai-1
+
+- model: shortwave.broadcaster
+  pk: 586
+  fields:
+    broadcaster: R.Nigeria(R.Na Gaskiya/R.of Tru
+    slug: r-nigeria-r-na-gaskiya-r-of-tru
+
+- model: shortwave.broadcaster
+  pk: 587
+  fields:
+    broadcaster: VOICE OF NIGERIA(DRM)
+    slug: voice-of-nigeria-drm
+
+- model: shortwave.broadcaster
+  pk: 588
+  fields:
+    broadcaster: Radio Itahuka
+    slug: radio-itahuka
+
+- model: shortwave.broadcaster
+  pk: 589
+  fields:
+    broadcaster: IRRS R.Santec/Cosmic Wave
+    slug: irrs-r-santec-cosmic-wave
+
+- model: shortwave.broadcaster
+  pk: 590
+  fields:
+    broadcaster: Radio Adal
+    slug: radio-adal
+
+- model: shortwave.broadcaster
+  pk: 591
+  fields:
+    broadcaster: Radio Al-Mukhtar
+    slug: radio-al-mukhtar
+
+- model: shortwave.broadcaster
+  pk: 592
+  fields:
+    broadcaster: WWRB Radio Munansi
+    slug: wwrb-radio-munansi
+
+- model: shortwave.broadcaster
+  pk: 593
+  fields:
+    broadcaster: Voice of Amara Radio
+    slug: voice-of-amara-radio
+
+- model: shortwave.broadcaster
+  pk: 594
+  fields:
+    broadcaster: RN San Gabriel
+    slug: rn-san-gabriel
+
+- model: shortwave.broadcaster
+  pk: 595
+  fields:
+    broadcaster: IRRS R.Warra Wangeelaa
+    slug: irrs-r-warra-wangeelaa
+
+- model: shortwave.broadcaster
+  pk: 596
+  fields:
+    broadcaster: WJHR Radio International
+    slug: wjhr-radio-international
+
+- model: shortwave.broadcaster
+  pk: 597
+  fields:
+    broadcaster: WINB DRM
+    slug: winb-drm
+
+- model: shortwave.broadcaster
+  pk: 598
+  fields:
+    broadcaster: T8WH Full Gospel Holiness Churc
+    slug: t8wh-full-gospel-holiness-churc
+
+- model: shortwave.broadcaster
+  pk: 599
+  fields:
+    broadcaster: T8WH Healing-Revelation
+    slug: t8wh-healing-revelation
+
+- model: shortwave.broadcaster
+  pk: 600
+  fields:
+    broadcaster: T8WH Whole Truth Gospel
+    slug: t8wh-whole-truth-gospel
+
+- model: shortwave.broadcaster
+  pk: 601
+  fields:
+    broadcaster: bit eXpress(DRM)
+    slug: bit-express-drm
+
+- model: shortwave.broadcaster
+  pk: 602
+  fields:
+    broadcaster: WTWW The Dave Ramsey show
+    slug: wtww-the-dave-ramsey-show
+
+- model: shortwave.broadcaster
+  pk: 603
+  fields:
+    broadcaster: XingXing guangbo diantai 3
+    slug: xingxing-guangbo-diantai-3
+
+- model: shortwave.broadcaster
+  pk: 604
+  fields:
+    broadcaster: R
+    slug: r
+
+- model: shortwave.broadcaster
+  pk: 605
+  fields:
+    broadcaster: KVOH Frecuencia al Dia
+    slug: kvoh-frecuencia-al-dia
+
+- model: shortwave.broadcaster
+  pk: 606
+  fields:
+    broadcaster: KVOH Voice of Hope
+    slug: kvoh-voice-of-hope
+
+- model: shortwave.broadcaster
+  pk: 607
+  fields:
+    broadcaster: WHRI Bishop S. C. Johnson Progr
+    slug: whri-bishop-s-c-johnson-progr
+
+- model: shortwave.broadcaster
+  pk: 608
+  fields:
+    broadcaster: WHRI Seeking the Lost Internati
+    slug: whri-seeking-the-lost-internati
+
+- model: shortwave.broadcaster
+  pk: 609
+  fields:
+    broadcaster: WHRI Moment By Moment
+    slug: whri-moment-by-moment
+
+- model: shortwave.broadcaster
+  pk: 610
+  fields:
+    broadcaster: Radio Ergo (IRIN RADIO)
+    slug: radio-ergo-irin-radio
+
+- model: shortwave.broadcaster
+  pk: 611
+  fields:
+    broadcaster: Voice of Independent Oromia
+    slug: voice-of-independent-oromia
+
+- model: shortwave.broadcaster
+  pk: 612
+  fields:
+    broadcaster: BIBLE VOICE BCN Call to Worship
+    slug: bible-voice-bcn-call-to-worship
+
+- model: shortwave.broadcaster
+  pk: 613
+  fields:
+    broadcaster: WRMI Radio Africa
+    slug: wrmi-radio-africa
+
+- model: shortwave.broadcaster
+  pk: 614
+  fields:
+    broadcaster: WHRI Rivers of Life
+    slug: whri-rivers-of-life
+
+- model: shortwave.broadcaster
+  pk: 615
+  fields:
+    broadcaster: WHRI Redeeming Love Time
+    slug: whri-redeeming-love-time
+
+- model: shortwave.broadcaster
+  pk: 616
+  fields:
+    broadcaster: WHRI Mainstream Mormonism
+    slug: whri-mainstream-mormonism
+
+- model: shortwave.broadcaster
+  pk: 617
+  fields:
+    broadcaster: WHRI Knowing God Radio
+    slug: whri-knowing-god-radio
+
+- model: shortwave.broadcaster
+  pk: 618
+  fields:
+    broadcaster: WHRI Treasure of Truth
+    slug: whri-treasure-of-truth
+
+- model: shortwave.broadcaster
+  pk: 619
+  fields:
+    broadcaster: WHRI Gail Campbell Ministries
+    slug: whri-gail-campbell-ministries
+
+- model: shortwave.broadcaster
+  pk: 620
+  fields:
+    broadcaster: WHRI Ngina Mathes Ministries
+    slug: whri-ngina-mathes-ministries
+
+- model: shortwave.broadcaster
+  pk: 621
+  fields:
+    broadcaster: WHRI Anush John
+    slug: whri-anush-john
+
+- model: shortwave.broadcaster
+  pk: 622
+  fields:
+    broadcaster: WHRI Whole Truth Gospel
+    slug: whri-whole-truth-gospel
+
+- model: shortwave.broadcaster
+  pk: 623
+  fields:
+    broadcaster: Unknown Broadcaster
+    slug: unknown-broadcaster
+
